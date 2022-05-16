@@ -1,0 +1,17 @@
+$ucla-blue: #2774ae;
+$ucla-gold: #ffd100;
+$base-color: #00598c;
+$highlight-color: #ffd100;
+$notification-color: #007339;
+$body-background: #e5e5e5;
+$text-color: #fff;
+$text-color-dark: #003b5c;
+
+$button-color: $highlight-color;
+$button-text-color: $text-color-dark;
+
+$menu-highlight-text: $text-color-dark;
+$menu-highlight-icon: $ucla-blue;
+$menu-highlight-background: $highlight-color;
+
+@import "../admin";
